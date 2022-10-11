@@ -46,6 +46,7 @@ void A_output(msg message)
 {
 
 
+
 }
 
 void B_output(msg message)  /* need be completed only for extra credit */
