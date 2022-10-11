@@ -24,6 +24,7 @@
     <ProjectGuid>{9ae26563-580c-4200-babf-a6191984ef6a}</ProjectGuid>
     <RootNamespace>ReliableDataTransfer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>AlternatingBitProtocol</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
